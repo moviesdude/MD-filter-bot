@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /MD-filter
+WORKDIR /
 
 COPY requirements.txt ./
 

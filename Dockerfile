@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /TamilanBotsZ
+WORKDIR /MD-filter
 
 COPY requirements.txt ./
 

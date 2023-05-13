@@ -69,6 +69,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTNER_SITE = environ.get('SHORTNER_SITE','kpslink.in')
-SHORTNER_API = environ.get('SHORTNER_API','2dea754bb2ef1a8f2a28d398facf881ba9b2577a')
+SHORTNER_SITE = environ.get('SHORTNER_SITE','v2.kpslink.in')
+SHORTNER_API = environ.get('SHORTNER_API','a675619b2d9e610a6ee227caf7b34429ecb5f0b9')
 
